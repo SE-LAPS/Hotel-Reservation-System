@@ -1,0 +1,14 @@
+SMAP
+roomTypes_jsp.java
+JSP
+*S JSP
+*F
++ 0 roomTypes.jsp
+roomTypes.jsp
++ 1 footer.jsp
+footer.jsp
+*L
+1,101:49
+5#1,42:150
+101#0,4:192
+*E
