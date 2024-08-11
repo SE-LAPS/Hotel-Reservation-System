@@ -1,0 +1,28 @@
+SMAP
+reservationManagement_jsp.java
+JSP
+*S JSP
+*F
++ 0 reservationManagement.jsp
+reservationManagement.jsp
++ 1 footer.jsp
+footer.jsp
+*L
+1,43:53
+44,6:97
+49,2:103
+51,35:106
+85,16:141
+101:157,3
+102:160
+103,7:161,3
+110,2:182
+112:184,3
+113,3:187
+116:190,3
+117,4:193
+121:197,3
+122,6:200
+5#1,42:206
+127#0,4:248
+*E
