@@ -1,0 +1,1 @@
+app.classes.MD5
